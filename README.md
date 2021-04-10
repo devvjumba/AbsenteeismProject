@@ -18,6 +18,8 @@ This project explores supervised logistic regression to predict the chance of 'e
 
 
 i) 'Absenteeism-data.csv'- Original data used from the start of the project
+
 ii) 'Absenteeism_preprocessed.csv' - A cleaned version of the data used to start the log regression
+
 iii) 'Absenteeism_new_data.csv' - Data to be used in the module as proof new data works
 
